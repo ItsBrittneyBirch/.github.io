@@ -5,13 +5,12 @@ Battle Animation: Doesn't Work
 Evolution: Doesn't Work
 Entering/Exiting Building Animation: Works
 
-Character Sprites: NEED
+Character Sprites: Works
 Capture/Nickname System: NEED
 Shopping/Healing System: NEED
 Background Picture: Works
 Sound Effects: NEED
 Action Animations: NEED
-Area Indication: NEED
 Area/Object Collision System: NEED
 Character/Speech Matchup: NEED
 Level Up Stats/Math: NEED
